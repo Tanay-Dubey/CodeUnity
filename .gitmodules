@@ -1,0 +1,6 @@
+[submodule "CodeUnity-Frontend"]
+	path = CodeUnity-Frontend
+	url = https://github.com/Tanay-Dubey/CodeUnity-Frontend.git
+[submodule "CodeUnity-Backend"]
+	path = CodeUnity-Backend
+	url = https://github.com/Tanay-Dubey/CodeUnity-Backend.git
